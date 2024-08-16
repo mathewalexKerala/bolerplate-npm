@@ -3,7 +3,7 @@
 	"author":"Mathew Alex",
 	"description": "this is a boilerplate to learn backend",
 
-	"keywords": ["boilerplate-npm","freeCodeCamp"],
+	"keywords": ["boilerplate-npm","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
