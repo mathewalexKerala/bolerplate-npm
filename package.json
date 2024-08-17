@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Mathew Alex",
 	"description": "this is a boilerplate to learn backend",
-
+ "license":"BSD",
 	"keywords": ["boilerplate-npm","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
